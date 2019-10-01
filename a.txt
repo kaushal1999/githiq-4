@@ -1,1 +1,2 @@
 this is the first line.
+now we have the second line.
